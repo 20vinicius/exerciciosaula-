@@ -1,0 +1,12 @@
+public class Basico {
+	public static void main(String[] args){
+		
+		int varInt = 1;
+		
+		System.out.print("mensagem:");
+        System.out.println("ola Mundo");
+        System.out.println("valor:" +varInt);
+        
+        
+	}
+}
